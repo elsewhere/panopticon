@@ -1,0 +1,1 @@
+java -jar kickass.jar -showmem startup.asm -afo
